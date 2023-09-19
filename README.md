@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luis9811
-- 👀 I’m interested in SpringBoot, JPA, Hibernate, Grails, Maven, Angular, React, Node, Jquery, Bootstrap, Java EE, Rest services
+- 👀 I’m interested in SpringBoot, Grails, Android, JPA, Hibernate, Maven, Gradle, Ionic, Angular, Jquery, Bootstrap, Java EE, Rest services
 - 🌱 I’m currently learning on everything as i can learn
 - 💞️ I’m looking to collaborate on researh to contribuite with other teams
 - 📫 How to reach me send to luis9811@
